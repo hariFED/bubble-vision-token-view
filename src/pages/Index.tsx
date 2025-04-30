@@ -9,7 +9,7 @@ import Footer from '@/components/Footer';
 const Index = () => {
   return (
     <div className="min-h-screen flex flex-col relative overflow-hidden">
-      <div className="absolute inset-0 bg-gradient-radial from-bubble-100 via-white to-bubble-50 z-0"></div>
+      <div className="absolute inset-0 bg-gradient-to-br from-bubble-100 via-white to-bubble-50 z-0"></div>
       <div className="absolute inset-0 z-0">
         <div className="absolute top-0 -left-4 w-72 h-72 bg-bubble-400 rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob"></div>
         <div className="absolute top-0 -right-4 w-72 h-72 bg-blue-300 rounded-full mix-blend-multiply filter blur-xl opacity-20 animate-blob animation-delay-2000"></div>
