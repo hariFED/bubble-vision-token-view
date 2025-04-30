@@ -6,7 +6,7 @@ const HowItWorks = () => {
     {
       number: 1,
       title: "Send a Contract Address",
-      description: "Simply send any EVM-compatible token contract address to our Telegram bot."
+      description: "Simply send any token contract address to our Telegram bot."
     },
     {
       number: 2,

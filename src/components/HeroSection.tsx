@@ -9,7 +9,7 @@ const HeroSection = () => {
         Bubblemaps Token Analyzer Bot
       </h1>
       <p className="text-xl md:text-2xl text-bubble-600 font-medium mb-6 animate-fade-in" style={{ animationDelay: "0.1s" }}>
-        Analyze EVM-compatible tokens, view Bubble Maps, and more!
+        Analyze tokens, view Bubble Maps, and more!
       </p>
       <p className="text-gray-600 max-w-2xl mx-auto mb-10 animate-fade-in" style={{ animationDelay: "0.2s" }}>
         Get real-time token information, visualize token holders, and review decentralization scores with ease. 
@@ -31,10 +31,10 @@ const HeroSection = () => {
           <div className="bg-white rounded-lg shadow-md p-4 md:p-6 max-w-md mx-auto">
             <div className="flex items-start border-b border-gray-100 pb-4 mb-4">
               <div className="h-10 w-10 rounded-full bg-gradient-to-tr from-bubble-800 to-bubble-400 flex items-center justify-center mr-4">
-                <span className="text-white font-bold">B</span>
+              <img src="/logo.png" alt="Bubblemaps Logo" className="rounded-full" />
               </div>
               <div className="text-left">
-                <p className="font-medium text-gray-900">Bubblemaps Bot</p>
+                <p className="font-medium text-gray-900">Bubblemaps only Bot</p>
                 <p className="text-sm text-gray-500">Analyzing tokens for you</p>
               </div>
             </div>

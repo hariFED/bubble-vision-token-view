@@ -10,11 +10,11 @@ const CallToAction = () => {
         <p className="mb-10 text-bubble-100 max-w-2xl mx-auto">
           Start using the Bubblemaps Token Analyzer Bot on Telegram today and get instant access to powerful token analytics and visualization tools.
         </p>
-        <Button 
+        <Button
           asChild
           className="bg-white text-bubble-700 hover:bg-bubble-50 py-6 px-8 rounded-xl font-medium text-lg shadow-lg animate-fade-up"
         >
-          <a href="https://t.me/BubblemapsBot" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/bubblemaps_only_Bot" target="_blank" rel="noopener noreferrer">
             Start Analyzing Tokens
           </a>
         </Button>
