@@ -1,6 +1,7 @@
-# Welcome to your Lovable project
+# Welcome to your BUBBLEMAPS
+project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/1c793517-8639-41f3-8951-74088377acff
+**URL**: (https://bubblemaps-bot.vercel.app/)
 
